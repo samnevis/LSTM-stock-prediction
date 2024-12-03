@@ -1,4 +1,4 @@
-# README for Stock Price Prediction Using LSTM
+# Stock Price Prediction Using LSTM
 
 This project demonstrates the use of Long Short-Term Memory (LSTM) networks for predicting Google stock prices based on historical data. The model is implemented using TensorFlow and evaluates the predictions using multiple metrics such as Mean Absolute Percentage Error (MAPE), Directional Accuracy (DA), and Simulated Trading Profits.
 
